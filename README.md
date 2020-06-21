@@ -6,8 +6,11 @@ This is a semester long project from my R courses. I redo it using Python. For e
 
 
 Part 1 - Data Preparation
+
 Part 2 - Exploratory Data Analysis(EDA)
+
 Part 3 - ...
+
 Part 4 - ...
 
 
