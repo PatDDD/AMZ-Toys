@@ -1,5 +1,5 @@
 # AMZ-Toys
-Data Analytics Project from data processing to data analysis
+*Data Analytics Project from data processing to data analysis*
 
 
 This is a semester long project from my R courses. I redo it using Python. For every part there are two files. The step-by-step file is my solution process which might contains some validation steps. The complete file remove those validation steps and combine similar codes to one chunk to make it more user-friendly.
