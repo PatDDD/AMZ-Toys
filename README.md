@@ -9,7 +9,7 @@ Part 1 - Data Preparation
 
 Part 2 - Exploratory Data Analysis(EDA)
 
-Part 3 - ...
+Part 3 - Feature Engineering
 
 Part 4 - ...
 
